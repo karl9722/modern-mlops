@@ -10,3 +10,14 @@ feature_repo/data/
 requirements-audit.txt
 .DS_Store
 .vscode/
+
+# Dagster local
+.dagster/
+
+# Fichiers temporaires
+*.bak
+metrics.txt
+backup.sql
+
+# Fichiers Windows
+Thumbs.db
